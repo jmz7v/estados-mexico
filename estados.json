@@ -1,0 +1,130 @@
+export const countryCodes = [
+  {
+    "state": "Aguascalientes",
+    "code": "AGS"
+  },
+  {
+    "state": "Baja California",
+    "code": "BC"
+  },
+  {
+    "state": "Baja California Sur",
+    "code": "BCS"
+  },
+  {
+    "state": "Campeche",
+    "code": "CAMP"
+  },
+  {
+    "state": "Chiapas",
+    "code": "CHIS"
+  },
+  {
+    "state": "Chihuahua",
+    "code": "CHIH"
+  },
+  {
+    "state": "Coahuila",
+    "code": "COAH"
+  },
+  {
+    "state": "Colima",
+    "code": "COL"
+  },
+  {
+    "state": "Distrito Federal",
+    "code": "DF"
+  },
+  {
+    "state": "Durango",
+    "code": "DGO"
+  },
+  {
+    "state": "Guanajuato",
+    "code": "GTO"
+  },
+  {
+    "state": "Guerrero",
+    "code": "GRO"
+  },
+  {
+    "state": "Hidalgo",
+    "code": "HGO"
+  },
+  {
+    "state": "Jalisco",
+    "code": "JAL"
+  },
+  {
+    "state": "Estado de México",
+    "code": "MEX"
+  },
+  {
+    "state": "Michoacán",
+    "code": "MICH"
+  },
+  {
+    "state": "Morelos",
+    "code": "MOR"
+  },
+  {
+    "state": "Nayarit",
+    "code": "NAY"
+  },
+  {
+    "state": "Nuevo León",
+    "code": "NL"
+  },
+  {
+    "state": "Oaxaca",
+    "code": "OAX"
+  },
+  {
+    "state": "Puebla",
+    "code": "PUE"
+  },
+  {
+    "state": "Querétaro",
+    "code": "QRO"
+  },
+  {
+    "state": "Quintana Roo",
+    "code": "QR"
+  },
+  {
+    "state": "San Luis Potosí",
+    "code": "SLP"
+  },
+  {
+    "state": "Sinaloa",
+    "code": "SIN"
+  },
+  {
+    "state": "Sonora",
+    "code": "SON"
+  },
+  {
+    "state": "Tabasco",
+    "code": "TAB"
+  },
+  {
+    "state": "Tamaulipas",
+    "code": "TAMS"
+  },
+  {
+    "state": "Tlaxcala",
+    "code": "TLAX"
+  },
+  {
+    "state": "Veracruz",
+    "code": "VER"
+  },
+  {
+    "state": "Yucatán",
+    "code": "YUC"
+  },
+  {
+    "state": "Zacatecas",
+    "code": "ZAC"
+  }
+]
