@@ -1,94 +1,94 @@
 [
   {
-    "state": "Aguascalientes",
+    "name": "Aguascalientes",
     "code": "AGS"
   },
   {
-    "state": "Baja California",
+    "name": "Baja California",
     "code": "BC"
   },
   {
-    "state": "Baja California Sur",
+    "name": "Baja California Sur",
     "code": "BCS"
   },
   {
-    "state": "Campeche",
+    "name": "Campeche",
     "code": "CAMP"
   },
   {
-    "state": "Chiapas",
+    "name": "Chiapas",
     "code": "CHIS"
   },
   {
-    "state": "Chihuahua",
+    "name": "Chihuahua",
     "code": "CHIH"
   },
   {
-    "state": "Coahuila",
+    "name": "Coahuila",
     "code": "COAH"
   },
   {
-    "state": "Colima",
+    "name": "Colima",
     "code": "COL"
   },
   {
-    "state": "Ciudad de México",
+    "name": "Ciudad de México",
     "code": "CDMX"
   },
   {
-    "state": "Durango",
+    "name": "Durango",
     "code": "DGO"
   },
   {
-    "state": "Guanajuato",
+    "name": "Guanajuato",
     "code": "GTO"
   },
   {
-    "state": "Guerrero",
+    "name": "Guerrero",
     "code": "GRO"
   },
   {
-    "state": "Hidalgo",
+    "name": "Hidalgo",
     "code": "HGO"
   },
   {
-    "state": "Jalisco",
+    "name": "Jalisco",
     "code": "JAL"
   },
   {
-    "state": "Estado de México",
+    "name": "Estado de México",
     "code": "MEX"
   },
   {
-    "state": "Michoacán",
+    "name": "Michoacán",
     "code": "MICH"
   },
   {
-    "state": "Morelos",
+    "name": "Morelos",
     "code": "MOR"
   },
   {
-    "state": "Nayarit",
+    "name": "Nayarit",
     "code": "NAY"
   },
   {
-    "state": "Nuevo León",
+    "name": "Nuevo León",
     "code": "NL"
   },
   {
-    "state": "Oaxaca",
+    "name": "Oaxaca",
     "code": "OAX"
   },
   {
-    "state": "Puebla",
+    "name": "Puebla",
     "code": "PUE"
   },
   {
-    "state": "Querétaro",
+    "name": "Querétaro",
     "code": "QRO"
   },
   {
-    "state": "Quintana Roo",
+    "name": "Quintana Roo",
     "code": "QR"
   },
   {
