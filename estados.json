@@ -32,8 +32,8 @@ export const countryCodes = [
     "code": "COL"
   },
   {
-    "state": "Distrito Federal",
-    "code": "DF"
+    "state": "Ciudad de México",
+    "code": "CDMX"
   },
   {
     "state": "Durango",
